@@ -11,7 +11,7 @@
 
 * I'm looking for a job as an Android Developer.
 *  I am competent in MVVM design pattern, dependency injection frameworks, REST API, JSON, Retrofit, Coroutines, Hilt, DataBinding, Life Cycles, Flow etc.
-* I have a team of 5 person named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) we are improving ourselves everyday.
+* I have a team of 5 people named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) we are improving ourselves everyday.
 
 <h2 align="left">Languages and Tools I Use</h2>
 
