@@ -9,9 +9,9 @@
 
 <img align="right" height="150" alt="guy" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
-* I'm looking for a job as an Android Developer.
+* I'm an Android Developer at LC Waikiki.
 *  I am competent in MVVM design pattern, dependency injection frameworks, REST API, JSON, Retrofit, Coroutines, Hilt, DataBinding, Life Cycles, Flow etc.
-* I have a team of 5 people named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) we are improving ourselves everyday.
+* I have a team of 6 people named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) we are improving ourselves everyday.
 
 <h2 align="left">Languages and Tools I Use</h2>
 
